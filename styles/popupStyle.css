@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 250px;
+    padding: 10px;
+    border:none;
+    border-radius: 30px;
+}
+button {
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #043207;
+}
+#tabIslandsContainer div {
+    margin-top: 5px;
+    padding: 8px;
+    /* border: 1px solid #ccc; */
+    
+}
+
+
