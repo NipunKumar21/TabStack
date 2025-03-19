@@ -34,29 +34,3 @@ Tab Islands is a browser extension that allows users to save, manage, and restor
 5. **Deleting Islands**: Click the "Delete this" button next to an island to remove it from your saved list.
 6. **Minimizing Islands**: Click the "Minimize" button to hide the contents of an island.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/YourFeature
-   ```
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the contributors and the open-source community for their support and inspiration.
